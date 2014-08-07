@@ -52,6 +52,7 @@ import ark.util.SerializationUtil;
  * time using the datum label scores to optimize the structure.
  * 
  * @author Bill McDowell
+ * @author Jesse Dodge
  *
  * @param <D> datum type
  * @param <L> datum label type
